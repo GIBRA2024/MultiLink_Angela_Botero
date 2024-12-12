@@ -23,7 +23,7 @@ body {
 
 .profile-pic {
     width: auto;
-    height: 110px;
+    height: 100px;
     object-fit: cover;
     margin-bottom: 30px;
 }
